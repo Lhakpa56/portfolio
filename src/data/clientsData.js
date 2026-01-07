@@ -1,54 +1,53 @@
-// Import images
-import AmazonImage from '../images/brands/amazon_gray.png';
-import SonyImage from '../images/brands/sony_gray.png';
-import AdidasImage from '../images/brands/adidas_gray.png';
-import FilaImage from '../images/brands/fila_gray.png';
-import NBImage from '../images/brands/nb_gray.png';
-import SamsungImage from '../images/brands/samsung_gray.png';
-import CanonImage from '../images/brands/canon_gray.png';
-import PumaImage from '../images/brands/puma_gray.png';
+import adidas from '../images/brands/adidas_gray.png';
+import amazon from '../images/brands/amazon_gray.png';
+import canon from '../images/brands/canon_gray.png';
+import fila from '../images/brands/fila_gray.png';
+import nb from '../images/brands/nb_gray.png';
+import puma from '../images/brands/puma_gray.png';
+import samsung from '../images/brands/samsung_gray.png';
+import sony from '../images/brands/sony_gray.png';
 
-export const clientsHeading = 'Some of the brands that trust me';
+export const clientsHeading = 'Clients';
 
 export const clientsData = [
 	{
 		id: 1,
-		title: 'Amazon',
-		img: AmazonImage,
+		title: 'Adidas',
+		img: adidas,
 	},
 	{
 		id: 2,
-		title: 'Sony',
-		img: SonyImage,
+		title: 'Amazon',
+		img: amazon,
 	},
 	{
 		id: 3,
-		title: 'Adidas',
-		img: AdidasImage,
+		title: 'Canon',
+		img: canon,
 	},
 	{
 		id: 4,
-		title: 'FILA',
-		img: FilaImage,
+		title: 'Fila',
+		img: fila,
 	},
 	{
 		id: 5,
-		title: 'NB',
-		img: NBImage,
+		title: 'New Balance',
+		img: nb,
 	},
 	{
 		id: 6,
-		title: 'SAMSUNG',
-		img: SamsungImage,
+		title: 'Puma',
+		img: puma,
 	},
 	{
 		id: 7,
-		title: 'CANON',
-		img: CanonImage,
+		title: 'Samsung',
+		img: samsung,
 	},
 	{
 		id: 8,
-		title: 'PUMA',
-		img: PumaImage,
+		title: 'Sony',
+		img: sony,
 	},
 ];
