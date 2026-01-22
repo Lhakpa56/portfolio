@@ -17,6 +17,7 @@ export const projectsData = [
 			publishDate: 'Jul 26, 2021',
 			tags: 'UI / Frontend',
 		},
+
 	},
 	{
 		id: 2,

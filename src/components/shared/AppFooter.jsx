@@ -10,28 +10,23 @@ import AppFooterCopyright from './AppFooterCopyright';
 const socialLinks = [
 	{
 		id: 1,
-		icon: <FiGlobe />,
-		url: 'https://github.com/Lhakpa56',
-	},
-	{
-		id: 2,
 		icon: <FiGithub />,
 		url: 'https://github.com/Lhakpa56',
 	},
 	{
-		id: 3,
+		id: 2,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/Lhakpa56',
+		url: 'https://x.com/TenjiDorzee',
+	},
+	{
+		id: 3,
+		icon: <FiLinkedin />,
+		url: 'https://www.linkedin.com/in/lhakpa-tenji-sherpa-chirring-dorzee-sherpa-b6a7232ab',
 	},
 	{
 		id: 4,
-		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/Lhakpa56',
-	},
-	{
-		id: 5,
 		icon: <FiYoutube />,
-		url: 'https://www.youtube.com/c/Lhakpa56',
+		url: 'https://www.youtube.com/@lhakpatenjisherpa',
 	},
 ];
 
