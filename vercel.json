@@ -1,6 +1,7 @@
 {
   "buildCommand": "yarn run build:css && yarn run build",
   "outputDirectory": "build",
+  "nodeVersion": "18.x",
   "env": {
     "npm_config_legacy_peer_deps": "true"
   }
