@@ -3,5 +3,8 @@
   "outputDirectory": "build",
   "env": {
     "npm_config_legacy_peer_deps": "true"
-  }
+  },
+  "rewrites": [
+    { "source": "/:path*", "destination": "/index.html" }
+  ]
 }
